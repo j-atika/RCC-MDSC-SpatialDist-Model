@@ -42,7 +42,7 @@ SOFTWARE.
 
 
 
-Resources: 
+# Resources: 
 [1] Nagaraj, S., & Gabrilovich, D. I. (2008). Tumor escape mechanism governed by myeloid-derived suppressor cells. Cancer research, 68(8), 2561-2563.
 [2] Marvel, D., & Gabrilovich, D. I. (2015). Myeloid-derived suppressor cells in the tumor microenvironment: expect the unexpected. The Journal of clinical investigation, 125(9), 3356-3364.
 [3] Highfill, S. L., Cui, Y., Giles, A. J., Smith, J. P., Zhang, H., Morse, M. A., … & Mackall, C. L. (2014). Disruption of CXCR2-mediated MDSC tumor trafficking enhances anti-PD1 efficacy. Science translational medicine, 6(237), 237ra67-237ra67.
